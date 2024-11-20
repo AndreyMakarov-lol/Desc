@@ -26,3 +26,5 @@ lable.pack() # размещаем метку в окне
 root.protocol("WM_DELETE_WINDOW", finish) # перехват закрытия приложения
 
 root.mainloop() # запускаем цикл обработки событий окна
+
+https://metanit.com/python/tkinter/1.2.php
